@@ -16,7 +16,6 @@ nameit 3
 #=> handsomely-memory
 #=> thick-order
 #=> frightening-step
-
 ```
 or
 ```
